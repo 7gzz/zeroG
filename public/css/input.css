@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Far5a';
+    src: url('../Assets/Far5a-_.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: 'Far5a', sans-serif;
+    color: white;
+}
+
+.my-input{
+    @apply bg-[#1a1a1a] py-2 placeholder-opacity-30 px-5 focus-visible:border-0 focus-visible:outline-0 border-slate-500 rounded-lg;
+}
