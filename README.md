@@ -63,9 +63,10 @@ Below is a high-level overview of our database structure, designed to support ga
 ## 📚 Game Rulebooks
 
 Ready to dive in? Access the full rulebooks for each game:
-- [**Space Wrestling Rulebook**](space_wrestling.pdf)
-- [**Microgravity Tag Rulebook**](microgravity_tag.pdf)
-- [**Galactic Water Race Rulebook**](galactic_water_race.pdf)
+- [**Space Wrestling Rulebook**](https://heyzine.com/flip-book/c973a45190.html)
+- [**Microgravity Tag The Official Rulebook**](https://heyzine.com/flip-book/f502365879.html)
+- [**Galactic Water Race Rulebook**](https://heyzine.com/flip-book/d6ff2fe180.html)
+
 
 ---
 
